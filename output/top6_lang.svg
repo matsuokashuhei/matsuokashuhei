@@ -33,33 +33,33 @@
  <rect x="0.5" y="0.5" width="429" height="303" rx="4.5" ry="4.5" stroke="#3D444D"/>
   <text id="title" x="33" y="40" font-size="14" font-weight="bold" fill="#fff" font-family="system-ui, -apple-system, sans-serif">Most Used Languages</text>
   <text id="topLang" class="top" x="135" y="80" font-size="38" dominant-baseline="middle" text-anchor="middle" font-weight="bold" fill='#fff' font-family="system-ui, -apple-system, sans-serif">Swift</text>
-  <text id="topPercent" class="top" x="330" y="70" font-size="28" font-weight="bold" fill='#fff' font-family="system-ui, -apple-system, sans-serif" dominant-baseline="middle" text-anchor="middle" >26.02%</text>
-  <text id="topByte" class="top" x="330" y="95" font-size="16" font-weight="normal" fill='#fff' font-family="system-ui, -apple-system, sans-serif" dominant-baseline="middle" text-anchor="middle" >2008508 bytes</text>
+  <text id="topPercent" class="top" x="330" y="70" font-size="28" font-weight="bold" fill='#fff' font-family="system-ui, -apple-system, sans-serif" dominant-baseline="middle" text-anchor="middle" >26.66%</text>
+  <text id="topByte" class="top" x="330" y="95" font-size="16" font-weight="normal" fill='#fff' font-family="system-ui, -apple-system, sans-serif" dominant-baseline="middle" text-anchor="middle" >2076179 bytes</text>
 
   <rect x="14" y="115.8" width="400" height="1" fill="url(#animeGrad)" />
 
 <g transform="translate(0, 0)" class="langRow">
-  <text id="lang-name" x="33" y="150" font-size="16" font-weight="bold" fill="#fff" font-family="system-ui, -apple-system, sans-serif">Ruby  <tspan font-size="13" fill="#B6B6B6" font-weight="normal">16.53%</tspan></text>
+  <text id="lang-name" x="33" y="150" font-size="16" font-weight="bold" fill="#fff" font-family="system-ui, -apple-system, sans-serif">Ruby  <tspan font-size="13" fill="#B6B6B6" font-weight="normal">16.39%</tspan></text>
   <rect class="bar" style="--w: 200.000000px" x="195" y="140" width="200.000000" height="12" fill="url(#gradient)" />
 </g>
 
 <g transform="translate(0, 30)" class="langRow">
-  <text id="lang-name" x="33" y="150" font-size="16" font-weight="bold" fill="#fff" font-family="system-ui, -apple-system, sans-serif">TypeScript  <tspan font-size="13" fill="#B6B6B6" font-weight="normal">14.09%</tspan></text>
+  <text id="lang-name" x="33" y="150" font-size="16" font-weight="bold" fill="#fff" font-family="system-ui, -apple-system, sans-serif">TypeScript  <tspan font-size="13" fill="#B6B6B6" font-weight="normal">13.96%</tspan></text>
   <rect class="bar" style="--w: 170.000000px" x="195" y="140" width="170.000000" height="12" fill="url(#gradient)" />
 </g>
 
 <g transform="translate(0, 60)" class="langRow">
-  <text id="lang-name" x="33" y="150" font-size="16" font-weight="bold" fill="#fff" font-family="system-ui, -apple-system, sans-serif">Python  <tspan font-size="13" fill="#B6B6B6" font-weight="normal">9.55%</tspan></text>
+  <text id="lang-name" x="33" y="150" font-size="16" font-weight="bold" fill="#fff" font-family="system-ui, -apple-system, sans-serif">Python  <tspan font-size="13" fill="#B6B6B6" font-weight="normal">9.46%</tspan></text>
   <rect class="bar" style="--w: 115.000000px" x="195" y="140" width="115.000000" height="12" fill="url(#gradient)" />
 </g>
 
 <g transform="translate(0, 90)" class="langRow">
-  <text id="lang-name" x="33" y="150" font-size="16" font-weight="bold" fill="#fff" font-family="system-ui, -apple-system, sans-serif">Rust  <tspan font-size="13" fill="#B6B6B6" font-weight="normal">8.21%</tspan></text>
+  <text id="lang-name" x="33" y="150" font-size="16" font-weight="bold" fill="#fff" font-family="system-ui, -apple-system, sans-serif">Rust  <tspan font-size="13" fill="#B6B6B6" font-weight="normal">8.14%</tspan></text>
   <rect class="bar" style="--w: 99.000000px" x="195" y="140" width="99.000000" height="12" fill="url(#gradient)" />
 </g>
 
 <g transform="translate(0, 120)" class="langRow">
-  <text id="lang-name" x="33" y="150" font-size="16" font-weight="bold" fill="#fff" font-family="system-ui, -apple-system, sans-serif">Dockerfile  <tspan font-size="13" fill="#B6B6B6" font-weight="normal">7.74%</tspan></text>
+  <text id="lang-name" x="33" y="150" font-size="16" font-weight="bold" fill="#fff" font-family="system-ui, -apple-system, sans-serif">Dockerfile  <tspan font-size="13" fill="#B6B6B6" font-weight="normal">7.67%</tspan></text>
   <rect class="bar" style="--w: 94.000000px" x="195" y="140" width="94.000000" height="12" fill="url(#gradient)" />
 </g>
 
